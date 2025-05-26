@@ -1,0 +1,5 @@
+{
+  "yaml.schemas": {
+    "kubernetes://schema/apps/v1@replicaset": "file:///Users/nishantraj/Projects/projects-staging-ops/rs.yml"
+  }
+}

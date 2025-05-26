@@ -1,0 +1,11 @@
+postgresUser: user
+postgresPassword: password
+postgresDatabase: mydb
+namespace: postgres
+name: my-postgres
+service:
+  port: 5432
+  targetPort: 5432
+image:
+  repository: postgres
+  tag: "15"
